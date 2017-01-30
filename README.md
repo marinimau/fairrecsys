@@ -33,12 +33,12 @@ topK \
 epsilon
 ```
 
-Explanation for Input parameters:
-"altered_matrix_path": path to output altered matrix
-"userFile_path": path to user file where sensitive attribute exists 
-"predictions_path": original recommendation matrix
-"topK": top-k
-"epsilon": desired level of fairness
+Explanation for Input parameters:<br>
+"altered_matrix_path": path to output altered matrix<br>
+"userFile_path": path to user file where sensitive attribute exists<br> 
+"predictions_path": original recommendation matrix<br>
+"topK": top-k<br>
+"epsilon": desired level of fairness<br>
 
 Example: 
 ```sh 
