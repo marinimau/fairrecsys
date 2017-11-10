@@ -46,4 +46,4 @@ $ python alg_distMet_mu1.py altered_fair_matrix ../data/ml-1m-users.csv ../data/
 ```
 
 ### Questions
-bedizel@gmail.com
+b.edizel@gmail.com
